@@ -1,0 +1,1 @@
+{"frames":[{"func":"read.spss(\"../data/Koweps_hpc10_2015_beta1.sav\", to.data.frame = \"T\")","file":"","line_number":0,"end_line_number":0,"character_number":0,"end_character_number":0}],"message":"Error in read.spss(\"../data/Koweps_hpc10_2015_beta1.sav\", to.data.frame = \"T\") : \n  unable to open file: 'No such file or directory'\n"}
